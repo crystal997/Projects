@@ -1,4 +1,4 @@
-Time series final project 
+Time series final project for web traffic forcasting
 
 - web_proj.Rmd includes data cleaning, EDA, and statiatical models
 - Deep learning prediction of web traffic.ipynb includes codes for deel learning models
